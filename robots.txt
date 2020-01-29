@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://neiweanae.re-invention.nl/sitemap.xml
